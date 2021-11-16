@@ -1,0 +1,17 @@
+C:\Users\jessi\AppData\Local\Programs\Python\Python39
+
+instalação de 
+python -m pip install --user numpy
+python -m pip install --user pandas
+python -m pip install --user sqlalchemy
+python -m pip install --user pyodbc #feito pela microsoft
+
+python -m pip install --user pymssql #feito pela comunidade
+
+# para mysql  pymysql
+python -m pip install --user pymysql
+
+## atualizar o instalador de pacotes pip
+python -m pip install --upgrade pip
+ sqlalchemy
+

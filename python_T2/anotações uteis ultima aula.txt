@@ -1,0 +1,23 @@
+driver de comunicação sql server e exemplo de como
+conectar e realizar consultas:
+
+https://docs.microsoft.com/pt-br/sql/connect/python/python-driver-for-sql-server?view=sql-server-ver15
+
+https://www.ti-enxame.com/pt/python/conectando-se-ao-servidor-microsoft-sql-usando-python/1056394438/
+
+exemplo em mysql
+https://minerandodados.com.br/trabalhando-com-banco-de-dados-sql-usando-python/
+
+################################
+busca com expressoes regulares ou trechos de nome
+
+https://www.vooo.pro/insights/tutorial-sobre-expressoes-regulares-para-iniciantes-em-python/
+
+https://medium.com/data-hackers/6-dicas-sobre-expressões-regulares-em-python-238bed9ccdad
+
+http://devfuria.com.br/python/regex/
+
+
+
+
+

@@ -1,0 +1,18 @@
+{
+    "Compras":[
+        {
+            "Arroz_KG":5,
+            "Feijão_KG":1,
+            "Macarrao_pct":1,
+            "Mes":"Jan",
+            "Molho_pct":3
+        },
+        {
+            "Arroz_KG":0,
+            "Feijão_KG":0,
+            "Macarrao_pct":3,
+            "Mes":"Fev",
+            "Molho_pct":9
+        }
+    ]
+}
